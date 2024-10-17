@@ -1,2 +1,2 @@
-# gater
+# gator
 Blog aggregator project
